@@ -1,4 +1,4 @@
-# ROBO-DOC
+# DOCBOT
 Healthcare chatbot to predict Diseases based on patient symptoms.
 <br>
 <p align="center">

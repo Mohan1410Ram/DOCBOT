@@ -1,2 +1,9 @@
-# DOCBOT
-A conversational chatbot that assists users in diagnosing diseases from their symptoms and providing safety measures, developed using Python Flask, NLTK, Scikit-learn, Spacy etc...
+# ROBO-DOC
+Healthcare chatbot to predict Diseases based on patient symptoms.
+<br>
+<p align="center">
+  <img src="screens\prediction.png" width="500" >
+</p>
+
+Medical DataSet available !!
+---- 
